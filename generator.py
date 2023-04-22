@@ -1,4 +1,4 @@
-limit = 300
+limit = 1500
 
 print("[myheader]")
 print("mykey=[")
